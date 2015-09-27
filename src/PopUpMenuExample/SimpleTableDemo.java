@@ -86,7 +86,7 @@ public class SimpleTableDemo extends JFrame{
                 }
                 System.out.println();
             }
-            System.out.println("-----------------------");
+            System.out.println("----------------------");
         }
         
     public static void main(String[] args) 
